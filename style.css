@@ -1,0 +1,36 @@
+.square{
+  height :50px;
+  width:50px;
+  border:1px solid #000;
+
+
+
+}
+
+.black {
+  background-color: #000;
+}
+
+.white{
+  background-color: white;
+}
+
+.row {
+  display: inline-block;
+}
+
+.player1{
+  
+  background: red;
+
+}
+.player2{
+ background: black;
+}
+.piece{
+  width: 30px;
+  height: 30px;
+   -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+}
